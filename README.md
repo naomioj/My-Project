@@ -1,2 +1,3 @@
 # My-Project
-My final project in LITA
+## My Project Overview
+This project is made to analyze the  sale performance of a retailstore by exploring sales data to uncover key insight such as top selling products, regional performance and monthly sales trend.
