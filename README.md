@@ -18,6 +18,6 @@ The primary dataaset is CAPSTONE retail store
 - using a pivot table summarize total sales by products, region and month
 ### a- by product: 
 Create your pivot table and set your product to the row and total sales to the column. all this applied to the rest .
-[lita][naomi1]
+[lita][lita/naomi1.png]
 	
     
