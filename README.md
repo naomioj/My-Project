@@ -15,3 +15,8 @@ The primary dataaset is CAPSTONE retail store
 
 ### Tasks
 1- Excel
+- using a pivot table summarize total sales by products, region and month
+### a- by product: 
+Create your pivot table and set your product to the row and total sales to the column. all this applied to the rest .
+	
+    
