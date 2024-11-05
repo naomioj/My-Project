@@ -12,3 +12,6 @@ The primary dataaset is CAPSTONE retail store
 - SQL for quering of data
 - MS Excel for data cleaning, analysis and visualisation
 - PowerBI for building dashboard
+
+### Tasks
+1- Excel
