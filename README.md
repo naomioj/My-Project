@@ -9,5 +9,6 @@ trend that will eneable the retail store make reasonable decision.
 The primary dataaset is CAPSTONE retail store
 
 ###  Tools used 
-SQL for quering of data
-MS Excel for data cleaning, analysis and visualisation
+- SQL for quering of data
+- MS Excel for data cleaning, analysis and visualisation
+- PowerBI for building dashboard
