@@ -5,7 +5,7 @@ This project is made to analyze the  sale performance of a retailstore by explor
 sales data to uncover key insight such as top selling products, regional performance and monthly sales
 trend that will eneable the retail store make reasonable decision.
 
-###Data sources
+### Data sources
 The primary dataaset is CAPSTONE retail store
 
 ###  Tools used 
