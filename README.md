@@ -18,4 +18,5 @@ The primary dataaset is CAPSTONE retail store
 1- Excel
 - using a pivot table summarize total sales by products, region and month
 ### a- by product: 
-Create your pivot table and set your product to the row and total sales to the column. all this applied to the rest .[download here][desktop//lita]
+Create your pivot table and set your product to the row and total sales to the column. all this applied to the rest![naomi2](https://github.com/user-attachments/assets/aa3b5664-578d-4721-9491-18557f30bb4a)
+
