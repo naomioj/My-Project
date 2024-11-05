@@ -36,17 +36,26 @@ Create your pivot table and set your product to the row and total sales to the c
 - product with no sales
 ### QUERRIES
 ![LATA1](https://github.com/user-attachments/assets/180ca641-9b36-411a-bb4e-29f1469991e4)
+
 ![LITA2](https://github.com/user-attachments/assets/bb200616-6f1d-47a4-bc01-85351d186424)
+
 ![LITA3](https://github.com/user-attachments/assets/10781d55-025f-4e03-a285-f98ef5be6fbc)
 
 ### OUTPUT
 1- ![OUTPUT 1](https://github.com/user-attachments/assets/f09c53fb-ee92-4915-9920-cbebeef881f5)
+
 2-  ![OUTPUT2](https://github.com/user-attachments/assets/22f87299-59c9-4911-a25a-af34ca04c2eb)
+
 3-  ![OUTPUT4](https://github.com/user-attachments/assets/30688822-ece5-4686-8480-2d68835c3897)
+
 4- ![OUTPUT3](https://github.com/user-attachments/assets/e06636db-e2a7-40a4-950e-23584b233373)
- 5-  ![OUTPUT5](https://github.com/user-attachments/assets/5b6762e7-bf43-4d84-9c90-7154512f2739)- 
+
+ 5-  ![OUTPUT5](https://github.com/user-attachments/assets/5b6762e7-bf43-4d84-9c90-7154512f2739) 
+ 
 6-  [TOP 5](https://github.com/user-attachments/assets/56ff6ac2-7a7a-415b-843f-2e7a823a32d1)
+
 7-   ![OUTPUT7](https://github.com/user-attachments/assets/9bccc337-2fb2-462e-af41-ca208196a141)
+
 8-   ![OUTPUT O](https://github.com/user-attachments/assets/314a799a-883a-40f7-bc4d-a3b1cbba1627)
 
   ### Conclusion
